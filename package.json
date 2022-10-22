@@ -1,0 +1,24 @@
+{
+  "name": "js-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ronskyi-O/js-webpack.git"
+  },
+  "keywords": [],
+  "author": "Alex <oleksandr.ronskyi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ronskyi-O/js-webpack/issues"
+  },
+  "homepage": "https://github.com/Ronskyi-O/js-webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
